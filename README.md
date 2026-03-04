@@ -27,9 +27,9 @@ Mehr auf [afaik.de](https://www.afaik.de)
 
 ## Publikationen
 
-- **Richtig Texten mit KI** (Rheinwerk, 2023) — Praxisbuch für KI-gestützte Texterstellung
-- **Kluge Köpfchen mit KI** (Riva, 2025, mit Leonie Lutz) — KI für Kinder und Familien
-- **Smarter Leben mit KI** (Riva, 2026) — KI-Anwendungen im Alltag
+- **Richtig Texten mit KI** (MVG Verlag, 2023) — Praxisbuch für KI-gestützte Texterstellung
+- **Kluge Köpfchen mit KI** (Kösel, 2025, mit Leonie Lutz) — KI für Kinder und Familien
+- **Smarter Leben mit KI** (MVG Verlag, 2026) — KI-Anwendungen im Alltag
 - **SEO für KI** (O'Reilly, Q3 2026) — Sichtbarkeit in KI-Suchsystemen
 - **Had Enough of Experts?** — *Stat*, Vol. 14, Issue 2 (2025)
 - **NeurIPS 2024** — Workshop-Poster zu Bayesian Priors aus LLMs
