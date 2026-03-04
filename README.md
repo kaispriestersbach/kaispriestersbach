@@ -1,12 +1,14 @@
 # Hi, ich bin Kai
 
-KI-Forscher, Autor, Speaker und Berater. Ich promoviere an der [RPTU Kaiserslautern-Landau](https://rptu.de/) im Bereich Data Science und bin als Gastforscher am [DFKI](https://www.dfki.de/) tätig. Nebenbei betreibe ich [AFAIK](https://www.afaik.de) -- dort berate ich Unternehmen bei der KI-Implementierung und halte Keynotes und Trainings.
+KI-Forscher, Autor, Speaker und Berater. Ich bin Head of AI bei einer Frankfurter Agentur, promoviere an der [RPTU Kaiserslautern-Landau](https://rptu.de/) im Bereich Data Science und bin als Gastforscher am [DFKI](https://www.dfki.de/) tätig. Daneben betreibe ich [AFAIK](https://www.afaik.de) — KI-Beratung, Keynotes und Trainings.
+
+Blackboxes haben mich schon immer fasziniert — Systeme, bei denen man nur an Reglern drehen und beobachten kann, was rauskommt. So hat mich damals die Google-Suche gepackt: Hypothesen aufstellen, testen, beobachten, von vorne. Mit Large Language Models ist mir dasselbe nochmal passiert. Und jetzt, wo KI-Suche klassisches Information Retrieval und generative KI zusammenbringt, ist das die perfekte Schnittmenge aus allem, was mich die letzten zwanzig Jahre angetrieben hat. Ich helfe dabei, die Blackbox KI zu öffnen und echte Expertise von bloßem Anwendertum zu trennen.
 
 ## Woran ich arbeite
 
-- **Forschung:** Generative Engine Optimization (GEO) -- wie Inhalte für KI-Suchsysteme optimiert werden können
-- **Bücher:** [Richtig Texten mit KI](https://www.afaik.de/richtig-texten-mit-ki/) (25.000+ verkaufte Exemplare), [SEO für KI](https://www.afaik.de/seo-fuer-ki/) (O'Reilly, erscheint Q3 2026)
-- **Podcast:** [Synapsensprung](https://www.afaik.de/synapsensprung/) -- alle zwei Wochen über Technologie, Philosophie und Gesellschaft
+- **Forschung:** Generative Engine Optimization (GEO) — wie Inhalte für KI-Suchsysteme optimiert werden können
+- **Buch:** [SEO für KI](https://www.afaik.de/geo-beratung/) (O'Reilly, erscheint Q3 2026) — Sichtbarkeit in KI-Suchsystemen
+- **Podcast:** [Synapsensprung](https://www.afaik.de/synapsensprung/) — alle zwei Wochen über Technologie, Philosophie und Gesellschaft
 - **Beratung:** KI-Strategie, Prompt Engineering, RAG-Systeme und Automatisierung via [AFAIK](https://www.afaik.de)
 
 ## Neueste Blog-Posts
@@ -25,20 +27,20 @@ Mehr auf [afaik.de](https://www.afaik.de)
 
 ## Publikationen
 
-- **Richtig Texten mit KI** (Rheinwerk, 2023) -- Praxisbuch für KI-gestützte Texterstellung
-- **Kluge Köpfchen mit KI** (Riva, 2025, mit Leonie Lutz) -- KI für Kinder und Familien
-- **Smarter Leben mit KI** (Riva, 2026) -- KI-Anwendungen im Alltag
-- **SEO für KI** (O'Reilly, Q3 2026) -- Sichtbarkeit in KI-Suchsystemen
-- **Had Enough of Experts?** -- *Stat*, Vol. 14, Issue 2 (2025)
-- **NeurIPS 2024** -- Workshop-Poster zu Bayesian Priors aus LLMs
+- **Richtig Texten mit KI** (Rheinwerk, 2023) — Praxisbuch für KI-gestützte Texterstellung
+- **Kluge Köpfchen mit KI** (Riva, 2025, mit Leonie Lutz) — KI für Kinder und Familien
+- **Smarter Leben mit KI** (Riva, 2026) — KI-Anwendungen im Alltag
+- **SEO für KI** (O'Reilly, Q3 2026) — Sichtbarkeit in KI-Suchsystemen
+- **Had Enough of Experts?** — *Stat*, Vol. 14, Issue 2 (2025)
+- **NeurIPS 2024** — Workshop-Poster zu Bayesian Priors aus LLMs
 
 ## Open Source
 
 Ich arbeite an Tools rund um KI, Datenanalyse und Webentwicklung:
 
-- [gio-pilot-study](https://github.com/kaispriestersbach/gio-pilot-study) -- Replikationscode für die GIO-Pilotstudie
-- [kidsgpt.eu](https://github.com/kaispriestersbach/kidsgpt.eu) -- DSGVO-konforme KI-Prompt-Bibliothek für Kinder
-- [gbd](https://github.com/kaispriestersbach/gbd) -- KI-gestütztes Workflow-System für Fachbücher
+- [gio-pilot-study](https://github.com/kaispriestersbach/gio-pilot-study) — Replikationscode für die GIO-Pilotstudie
+- [kidsgpt.eu](https://github.com/kaispriestersbach/kidsgpt.eu) — DSGVO-konforme KI-Prompt-Bibliothek für Kinder
+- [gbd](https://github.com/kaispriestersbach/gbd) — KI-gestütztes Workflow-System für Fachbücher
 
 ## Kontakt
 
