@@ -15,19 +15,19 @@ Blackboxes haben mich schon immer fasziniert — Systeme, bei denen man nur an R
 
 | Datum | Post |
 |-------|------|
-| Feb 2026 | [Warum ich als SEO-Veteran jetzt doch „GEO" sage](https://www.afaik.de/geo-oder-seo/) |
-| Feb 2026 | [Grounding Pages: Der „Standard", den niemand braucht](https://www.afaik.de/grounding-pages/) |
-| Feb 2026 | [Wie KI wirklich liest: Die Wahrheit hinter der „1,2 Millionen"-Studie](https://www.afaik.de/wie-ki-wirklich-liest/) |
-| Feb 2026 | [GEO-Expertenbefragung 2026](https://www.afaik.de/geo-expertenbefragung-2026/) |
-| Feb 2026 | [KI-Empfehlungen sind ein Glücksspiel](https://www.afaik.de/ki-empfehlungen-sind-gluecksspiel/) |
-| Feb 2026 | [Wie klassifizieren Generative Engines Nutzer-Intents?](https://www.afaik.de/wie-klassifizieren-generative-engines-nutzer-intents/) |
-| Feb 2026 | [Die llms.txt ist tot](https://www.afaik.de/die-llms-txt-ist-tot/) |
+| Apr 2026 | [Review der Wix/Peec-Analyse zu LLM-Zitationen & GEO](https://www.afaik.de/review-der-wix-peec-analyse/) |
+| Apr 2026 | [High-Stakes Purchases in AI Mode](https://www.afaik.de/high-stakes-purchases/) |
+| Mär 2026 | [Teil 3 zur AI-Visibility-Studie](https://www.afaik.de/teil-3-zur-ai-visibility-studie/) |
+| Mär 2026 | [Update zur „1,2-Millionen"-Studie: Teil 2](https://www.afaik.de/studie-teil-2-chatgpt-quellen/) |
+| Mär 2026 | [KI-Software ist wie ein Filmset](https://www.afaik.de/ki-software-ist-wie-ein-filmset/) |
+| Mär 2026 | [Googles Patent: KI-Zwischenseiten statt Landing Pages?](https://www.afaik.de/googles-patent-landing-page/) |
+| Mär 2026 | [Your Business Is My Next Prompt](https://www.afaik.de/your-business-is-my-next-prompt/) |
 
 Mehr auf [afaik.de](https://www.afaik.de)
 
 ## Publikationen
 
-- **Richtig Texten mit KI** (MVG Verlag, 2023) — Praxisbuch für KI-gestützte Texterstellung
+- **Richtig Texten mit KI** (MVG Verlag, 2023) — Praxisbuch für KI-gestützte Texterstellung · 25.000+ verkaufte Exemplare
 - **Kluge Köpfchen mit KI** (Kösel, 2025, mit Leonie Lutz) — KI für Kinder und Familien
 - **Smarter Leben mit KI** (MVG Verlag, 2026) — KI-Anwendungen im Alltag
 - **SEO für KI** (O'Reilly, Q3 2026) — Sichtbarkeit in KI-Suchsystemen
