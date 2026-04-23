@@ -15,13 +15,13 @@ Blackboxes haben mich schon immer fasziniert — Systeme, bei denen man nur an R
 
 | Datum | Post |
 |-------|------|
+| Apr 2026 | [GEO in der Praxis: Wie B2B-Unternehmen in generativen Suchsystemen sichtbar werden](https://www.afaik.de/geo-b2b-praxis/) |
 | Apr 2026 | [Review der Wix/Peec-Analyse zu LLM-Zitationen & GEO](https://www.afaik.de/review-der-wix-peec-analyse/) |
-| Apr 2026 | [High-Stakes Purchases in AI Mode](https://www.afaik.de/high-stakes-purchases/) |
-| Mär 2026 | [Teil 3 zur AI-Visibility-Studie](https://www.afaik.de/teil-3-zur-ai-visibility-studie/) |
-| Mär 2026 | [Update zur „1,2-Millionen"-Studie: Teil 2](https://www.afaik.de/studie-teil-2-chatgpt-quellen/) |
+| Apr 2026 | [„High-Stakes Purchases in AI Mode": Was man wirklich daraus lesen kann](https://www.afaik.de/high-stakes-purchases/) |
+| Mär 2026 | [Kevin Indigs Teil 3 zur AI-Visibility: gute Beobachtungen, zu große Schlussfolgerungen](https://www.afaik.de/teil-3-zur-ai-visibility-studie/) |
+| Mär 2026 | [Update zur „1,2-Millionen"-Studie: Was Teil 2 über ChatGPT-Quellen wirklich zeigt](https://www.afaik.de/studie-teil-2-chatgpt-quellen/) |
 | Mär 2026 | [KI-Software ist wie ein Filmset](https://www.afaik.de/ki-software-ist-wie-ein-filmset/) |
-| Mär 2026 | [Googles Patent: KI-Zwischenseiten statt Landing Pages?](https://www.afaik.de/googles-patent-landing-page/) |
-| Mär 2026 | [Your Business Is My Next Prompt](https://www.afaik.de/your-business-is-my-next-prompt/) |
+| Mär 2026 | [Googles neues Patent: KI-Zwischenseiten statt eurer Landing Pages?](https://www.afaik.de/googles-patent-landing-page/) |
 
 Mehr auf [afaik.de](https://www.afaik.de)
 
@@ -40,7 +40,7 @@ Ich arbeite an Tools rund um KI, Datenanalyse und Webentwicklung:
 
 - [gio-pilot-study](https://github.com/kaispriestersbach/gio-pilot-study) — Replikationscode für die GIO-Pilotstudie
 - [kidsgpt.eu](https://github.com/kaispriestersbach/kidsgpt.eu) — DSGVO-konforme KI-Prompt-Bibliothek für Kinder
-- [gbd](https://github.com/kaispriestersbach/gbd) — KI-gestütztes Workflow-System für Fachbücher
+- [pii-shield-extension](https://github.com/kaispriestersbach/pii-shield-extension) — Chrome Extension, die PII vor dem Einfügen in KI-Chatbots automatisch erkennt und anonymisiert (und beim Kopieren von Antworten wieder de-anonymisiert). Powered by Chrome Built-in AI (Gemini Nano).
 
 ## Kontakt
 
