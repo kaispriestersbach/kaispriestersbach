@@ -42,7 +42,7 @@ Ich arbeite an Tools rund um KI, Datenanalyse und Webentwicklung:
 
 - [gio-pilot-study](https://github.com/kaispriestersbach/gio-pilot-study) — Replikationscode für die GIO-Pilotstudie
 - [kidsgpt.eu](https://github.com/kaispriestersbach/kidsgpt.eu) — DSGVO-konforme KI-Prompt-Bibliothek für Kinder
-- [pii-shield-extension](https://github.com/kaispriestersbach/pii-shield-extension) — Chrome Extension, die PII vor dem Einfügen in KI-Chatbots automatisch erkennt und anonymisiert (und beim Kopieren von Antworten wieder de-anonymisiert). Powered by Chrome Built-in AI (Gemini Nano).
+- [pii-shield-extension](https://github.com/kaispriestersbach/pii-shield-extension) — experimenteller, nicht stabiler Forschungsprototyp einer Chrome Extension, die PII vor dem Einfügen in KI-Chatbots erkennen und anonymisieren soll. Nicht für den produktiven Einsatz empfohlen. Implementiert sind Chrome Built-in AI (Gemini Nano) und OpenAIs Privacy Filter/PII-Modell.
 
 ## Kontakt
 
