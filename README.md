@@ -1,6 +1,6 @@
 # Hi, ich bin Kai
 
-KI-Forscher, Autor, Speaker und Berater. Ich bin Head of AI bei einer Frankfurter Agentur, promoviere an der [RPTU Kaiserslautern-Landau](https://rptu.de/) im Bereich Data Science und bin als Gastforscher am [DFKI](https://www.dfki.de/) tätig. Daneben betreibe ich [AFAIK](https://www.afaik.de) — KI-Beratung, Keynotes und Trainings.
+KI-Forscher, Autor, Speaker und Berater. Ich bin Head of AI bei der Frankfurter Agentur [REACHX](https://reachx.de/) (ReachX GmbH), promoviere an der [RPTU Kaiserslautern-Landau](https://rptu.de/) im Bereich Data Science und bin als Gastforscher am [DFKI](https://www.dfki.de/) tätig. Daneben betreibe ich [AFAIK](https://www.afaik.de) — KI-Beratung, Keynotes und Trainings.
 
 Blackboxes haben mich schon immer fasziniert — Systeme, bei denen man nur an Reglern drehen und beobachten kann, was rauskommt. So hat mich damals die Google-Suche gepackt: Hypothesen aufstellen, testen, beobachten, von vorne. Mit Large Language Models ist mir dasselbe nochmal passiert. Und jetzt, wo KI-Suche klassisches Information Retrieval und generative KI zusammenbringt, ist das die perfekte Schnittmenge aus allem, was mich die letzten zwanzig Jahre angetrieben hat. Ich helfe dabei, die Blackbox KI zu öffnen und echte Expertise von bloßem Anwendertum zu trennen.
 
@@ -9,19 +9,19 @@ Blackboxes haben mich schon immer fasziniert — Systeme, bei denen man nur an R
 - **Forschung:** Generative Engine Optimization (GEO) — wie Inhalte für KI-Suchsysteme optimiert werden können
 - **Buch:** [SEO für KI](https://www.afaik.de/geo-beratung/) (O'Reilly, erscheint Q3 2026) — Sichtbarkeit in KI-Suchsystemen
 - **Podcast:** [Synapsensprung](https://www.afaik.de/synapsensprung/) — alle zwei Wochen über Technologie, Philosophie und Gesellschaft
-- **Beratung:** KI-Strategie, Prompt Engineering, RAG-Systeme und Automatisierung via [AFAIK](https://www.afaik.de)
+- **KI-Transformation:** Ich entwickle interne Tools, die externe Datenquellen mit LLM-Analyse verbinden, schule Teams im effektiven KI-Einsatz und integriere KI-Lösungen systematisch in bestehende Geschäftsprozesse. Kurz: Ich treibe die unternehmensweite KI-Transformation voran!
 
 ## Neueste Blog-Posts
 
 | Datum | Post |
 |-------|------|
+| Apr 2026 | [Google Search Central Live Toronto 2026: Was Google über SEO, KI und die Zukunft der Suche verrät](https://www.afaik.de/google-search-central-toronto-2026/) |
 | Apr 2026 | [GEO in der Praxis: Wie B2B-Unternehmen in generativen Suchsystemen sichtbar werden](https://www.afaik.de/geo-b2b-praxis/) |
 | Apr 2026 | [Review der Wix/Peec-Analyse zu LLM-Zitationen & GEO](https://www.afaik.de/review-der-wix-peec-analyse/) |
-| Apr 2026 | [„High-Stakes Purchases in AI Mode": Was man wirklich daraus lesen kann](https://www.afaik.de/high-stakes-purchases/) |
+| Apr 2026 | [„High-Stakes Purchases in AI Mode“: Was man wirklich daraus lesen kann – und was nicht](https://www.afaik.de/high-stakes-purchases/) |
 | Mär 2026 | [Kevin Indigs Teil 3 zur AI-Visibility: gute Beobachtungen, zu große Schlussfolgerungen](https://www.afaik.de/teil-3-zur-ai-visibility-studie/) |
-| Mär 2026 | [Update zur „1,2-Millionen"-Studie: Was Teil 2 über ChatGPT-Quellen wirklich zeigt](https://www.afaik.de/studie-teil-2-chatgpt-quellen/) |
+| Mär 2026 | [Update zur „1,2-Millionen“-Studie: Was Teil 2 über ChatGPT-Quellen wirklich zeigt](https://www.afaik.de/studie-teil-2-chatgpt-quellen/) |
 | Mär 2026 | [KI-Software ist wie ein Filmset](https://www.afaik.de/ki-software-ist-wie-ein-filmset/) |
-| Mär 2026 | [Googles neues Patent: KI-Zwischenseiten statt eurer Landing Pages?](https://www.afaik.de/googles-patent-landing-page/) |
 
 Mehr auf [afaik.de](https://www.afaik.de)
 
@@ -45,5 +45,6 @@ Ich arbeite an Tools rund um KI, Datenanalyse und Webentwicklung:
 ## Kontakt
 
 - **Web:** [afaik.de](https://www.afaik.de)
+- **Profil:** [kaispriestersbach.github.io](https://kaispriestersbach.github.io/)
 - **LinkedIn:** [kaispriestersbach](https://www.linkedin.com/in/kaispriestersbach/)
 - **E-Mail:** kai@afaik.de
