@@ -1,6 +1,8 @@
 # Hi, ich bin Kai
 
-KI-Forscher, Autor, Speaker und Berater. Ich bin Head of AI bei der Frankfurter Agentur [REACHX](https://reachx.de/) (ReachX GmbH), promoviere an der [RPTU Kaiserslautern-Landau](https://rptu.de/) im Bereich Data Science und bin als Gastforscher am [DFKI](https://www.dfki.de/) tätig. Daneben betreibe ich [AFAIK](https://www.afaik.de) — KI-Beratung, Keynotes und Trainings.
+KI-Forscher, Autor, Speaker und Berater. Ich bin Head of AI bei der Frankfurter Agentur [REACHX](https://reachx.de/) (ReachX GmbH), promoviere an der [RPTU Kaiserslautern-Landau](https://rptu.de/) im Bereich Data Science und bin als Gastforscher am [DFKI](https://www.dfki.de/) tätig.
+
+Auf [AFAIK](https://www.afaik.de), meinem persönlichen Blog, schreibe ich über KI, Suchmaschinen und das, was dazwischen passiert — wissenschaftlich fundiert, journalistisch aufbereitet und verständlich geschrieben. Der Name steht für „As Far As I Know“, also „so weit ich weiß“: Wissen teilen, transparent einordnen und die Grenzen des eigenen Wissens sichtbar machen.
 
 Blackboxes haben mich schon immer fasziniert — Systeme, bei denen man nur an Reglern drehen und beobachten kann, was rauskommt. So hat mich damals die Google-Suche gepackt: Hypothesen aufstellen, testen, beobachten, von vorne. Mit Large Language Models ist mir dasselbe nochmal passiert. Und jetzt, wo KI-Suche klassisches Information Retrieval und generative KI zusammenbringt, ist das die perfekte Schnittmenge aus allem, was mich die letzten zwanzig Jahre angetrieben hat. Ich helfe dabei, die Blackbox KI zu öffnen und echte Expertise von bloßem Anwendertum zu trennen.
 
